@@ -1,1 +1,1 @@
-# LinuxCourse_HWCommitScript_2
+# LinuxCourse_HWCommitScript_2 - demoapp
