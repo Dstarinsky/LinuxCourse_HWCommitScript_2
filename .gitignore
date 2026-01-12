@@ -1,0 +1,11 @@
+# Assignment Requirements
+tasks.csv
+commit.sh
+generate_report.sh
+
+# Recommended 
+TASK_REPORT.md
+
+# OS System Files
+.DS_Store
+Thumbs.db
